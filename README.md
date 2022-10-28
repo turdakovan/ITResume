@@ -1,6 +1,6 @@
 # ITResume
-Примеры проетов выполненные мной на стажировке в симуляторе SQL для анализа данных
+Примеры кейсов выполненных мной на стажировке в симуляторе SQL для анализа данных
 | Кейс               | Краткое описание          | Ключевые слова                     | 
 |:---------------------------:|:---------------------------:|:---------------------------:| 
-| [Сеть аптек](https://github.com/turdakovan/Yandex_Practicum/tree/main/bank_metanprom) | Исследовал клиентов банка, склонных уходить из банка. Проводил проверку статистических гипотез, предложил тактики по привлечению и удержанию пользователей, создал дашборд в *Tableau* ([ссылка на дашборд](https://public.tableau.com/app/profile/.60784652/viz/final_project_16489906991740/Banksusers?publish=yes)), иллюстрирующий выделенные сегменты пользователей. | *SQL*, *Metabase* |
-| [А/В-тестирование рекомендательной системы интернет-магазина](https://github.com/turdakovan/Yandex_Practicum/tree/main/a_b_marketing_events) | Проанализировал результаты А/В-тестирования рекомендательной системы интернет-магазина, оценил корректность проведения А/В-теста, визуализировал воронку событий, проводил проверку статистических гипотез | *Python*, *Pandas*, *Scipy*, *Plotly*, *проверка гипотез* | 
+| [Сеть аптек](https://github.com/turdakovan/ITResume/tree/main/drugstore) | На основе данных аптечной сети создал дашборд в *Metabase* с необходимыми метриками ([Ссылка на дашборд] (https://metabase.simulative.ru/dashboard/1-dashbord-set-apte)). Создал "широкую" таблицу с rolling retention в разбивке по когортам. Визуализировал таблицу в *Metabase* ([Ссылка на таблицу rolling retention](https://metabase.simulative.ru/question/46-rolling-retention)). Построил график rolling retention в разбивке по когортам. ([ССылка на график rolling retention в разбивке по когортам](https://metabase.simulative.ru/question/47-grafik-rolling-retention-s-razbivkoj-po-kogortam))  | *SQL*, *Metabase* |
+
