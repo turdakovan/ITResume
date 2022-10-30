@@ -24,11 +24,13 @@
 - Пропуски в столбце с XYZ анализом - без выделения цветом.
 
 
-## Ссылка на итоговую таблицу в Metabase и данные для входа
-[Ссылка на итоговую таблицу в Metabase](https://metabase.simulative.ru/question/48-abc-i-xyz-analiz-aptechnoj-set)
-Данные для входа:
+## Данные для входа и ссылка на итоговую таблицу в Metabase
+### Данные для входа
 - Логин: turdakov.alexei@yandex.ru
 - Пароль: KHOnBS5CYjQa?c
+### Ссылка на итоговую таблицу в Metabase
+[Ссылка на итоговую таблицу в Metabase](https://metabase.simulative.ru/question/48-abc-i-xyz-analiz-aptechnoj-set)
+
 ### Описание данных
 Для расчетов использововалась таблица sales из БД сети аптек, а именно столбцы:
 
