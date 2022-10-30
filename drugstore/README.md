@@ -21,7 +21,11 @@
 
 3. Построена "длинная" таблица rolling retention в разбивке по когортам. В качестве ключевых дней выбраны следующие периоды: 1 неделя, 2 недели, 1 месяц, 3 месяца, 6 месяцев, 12 месяцев. На основе этой таблицы построен график rolling retention в разбивке по когортам в Metabase.
 
-## Ссылки на Metabase
+## Данные для входа и ссылки на Metabase
+### Данные для входа
+- Логин: turdakov.alexei@yandex.ru
+- Пароль: KHOnBS5CYjQa?c
+### Ссылки на Metabase
 1. [Ссылка на дашборд Metabase](https://metabase.simulative.ru/dashboard/1-dashbord-set-apte)
 
 2. [Ссылка на широкую таблицу rolling retention](https://metabase.simulative.ru/question/46-rolling-retention)
