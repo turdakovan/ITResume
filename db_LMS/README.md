@@ -45,3 +45,5 @@ LMS (Learning Management System) - это программа для админи
 - В шагах с видео интересует только ссылка на видео.
 ### Схема базы данных
 [Схема базы данных в формате pdf](https://github.com/turdakovan/ITResume/blob/main/db_LMS/db_scheme_LMS.pdf)
+## Используемые библиотеки и инстументы
+*PostgreSQL*
